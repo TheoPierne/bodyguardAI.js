@@ -1,0 +1,19 @@
+{
+  "name": "bodyguard.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/TheoPierne/bodyguard.js",
+  "bugs": {
+    "url": "https://github.com/TheoPierne/bodyguard.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheoPierne/bodyguard.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wouhait (https://github.com/TheoPierne/)",
+  "license": "MIT"
+}
